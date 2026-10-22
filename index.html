@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="author" content="Simon Martin">
+  <meta name="description" content="Simon Martin, PhD student at Inria Paris and École Normale Supérieure, working on the learning dynamics of neural networks in high dimensions.">
+  <title>Simon Martin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600&display=swap">
+  <link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body>
+  <main class="page">
+
+    <header class="intro">
+      <img class="portrait" src="Photo%20Simon.jpg" alt="Portrait of Simon Martin" width="200" height="200">
+      <div class="intro-text">
+        <h1>Simon Martin</h1>
+        <p class="role">PhD student &middot; Inria Paris &amp; École Normale Supérieure</p>
+        <p>
+          I am a third year PhD student between the <a href="https://www.di.ens.fr/sierra/">SIERRA project-team</a> at INRIA Paris and the <a href="https://csd.ens.psl.eu/">Center for Data Science</a> at École Normale Supérieure. I am advised by Francis Bach and Giulio Biroli.
+        </p>
+        <p>
+          I am a former student of the ENS Ulm where I obtained my Master's degree in <a href="https://www.phys.ens.fr/en/formations/m2-icfp">Physics</a>. I also have a Master's degree in <a href="https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/mathematiques-de-laleatoire/">Probabilities and Statistics</a> from Université Paris Saclay.
+        </p>
+        <nav class="contact" aria-label="Contact and profiles">
+          <a class="pill" href="mailto:smartin@di.ens.fr">Email</a>
+          <a class="pill" href="CV.pdf">CV</a>
+          <a class="pill" href="https://scholar.google.com/citations?user=LDIy_70AAAAJ&amp;hl=en">Google Scholar</a>
+          <a class="pill" href="https://github.com/simonmartin15">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <section class="block" aria-labelledby="research">
+      <h2 id="research">Research</h2>
+      <p>
+        I'm currently working on shallow neural networks and their learning dynamics. The goal of my PhD is to combine applied mathematics and statistical physics tools to understand gradient flow dynamics in high dimensions.
+      </p>
+    </section>
+
+    <section class="block" aria-labelledby="publications">
+      <h2 id="publications">Publications</h2>
+
+      <article class="pub">
+        <h3 class="pub-title">Silent Alignment in Two-Layer Linear Networks: A High-Dimensional Perspective</h3>
+        <p class="pub-authors"><strong>Simon Martin</strong>, Francis Bach, Giulio Biroli</p>
+        <p class="pub-venue"><span class="badge">arXiv</span> Preprint, 2026</p>
+        <p class="pub-links">
+          <a class="pill" href="https://arxiv.org/abs/2610.29864">Paper</a>
+          <a class="pill" href="https://github.com/simonmartin15/silent-alignment-linear-networks">Code</a>
+        </p>
+        <details class="fold">
+          <summary>Summary and animation</summary>
+          <div class="fold-body">
+            <p>We study gradient flow in two-layer linear networks with small initialization, in the high-dimensional regime where all dimensions diverge proportionally. Training happens in two phases: the network first aligns its singular directions with those of the data, while the loss stays at its initial value. Its singular values are learned only later, from the largest to the smallest.</p>
+            <figure class="fold-figure">
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/silent_alignment_dark.gif">
+                <img src="images/silent_alignment.gif" loading="lazy" width="1617" height="1493" alt="Top: singular-value density of the network for three initialization scales, which leaves zero later when the initialization is smaller. Bottom: alignment error and loss of gradient descent; the alignment error decreases early for all three scales, while the loss waits.">
+              </picture>
+              <figcaption>Three initialization scales &rho;: the alignment error drops at the same time, while the loss and the singular values wait longer when &rho; is smaller. Curves show the theory, histograms show gradient descent, and the dashed line is the target spectrum.</figcaption>
+            </figure>
+          </div>
+        </details>
+      </article>
+
+      <article class="pub">
+        <h3 class="pub-title">High-Dimensional Analysis of Gradient Flow for Extensive-Width Quadratic Neural Networks</h3>
+        <p class="pub-authors"><strong>Simon Martin</strong>, Giulio Biroli, Francis Bach</p>
+        <p class="pub-venue"><span class="badge">JMLR</span> Journal of Machine Learning Research, 2026</p>
+        <p class="pub-links">
+          <a class="pill" href="https://www.jmlr.org/papers/v27/26-0672.html">Paper</a>
+          <a class="pill" href="https://github.com/simonmartin15/QuadraticNets">Code</a>
+        </p>
+        <details class="fold">
+          <summary>Summary and figure</summary>
+          <div class="fold-body">
+            <p>We study gradient flow for a two-layer quadratic network trained on a finite dataset, with a width proportional to the dimension. In this limit, the dynamics behave like training on infinitely many samples, with an additional noise term and a memory term. With weight decay and above a width that we compute, gradient flow finds the same solution as a network of unlimited width. With label noise, the test error shows a double descent in the number of samples.</p>
+            <figure class="fold-figure">
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/finite_data_dark.svg">
+                <img src="images/finite_data.svg" loading="lazy" width="692" height="311" alt="Left: test error against the number of samples, with a peak at the interpolation threshold for weak weight decay. Right: smallest width that reaches the same solution as a network of unlimited width, for three values of the label noise variance.">
+              </picture>
+              <figcaption>Left: test error as the number of samples grows, with label noise. Right: smallest width that reaches the same solution as a network of unlimited width.</figcaption>
+            </figure>
+          </div>
+        </details>
+      </article>
+
+      <article class="pub">
+        <h3 class="pub-title">Bayes-optimal learning of an extensive-width neural network from quadratically many samples</h3>
+        <p class="pub-authors">Antoine Maillard, Emanuele Troiani, <strong>Simon Martin</strong>, Lenka Zdeborová, Florent Krzakala</p>
+        <p class="pub-venue"><span class="badge">NeurIPS</span> Advances in Neural Information Processing Systems, 2024</p>
+        <p class="pub-links">
+          <a class="pill" href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/953e742190ca02fc8f9f710052f2fead-Abstract-Conference.html">Paper</a>
+          <a class="pill" href="https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples">Code</a>
+        </p>
+        <details class="fold">
+          <summary>Summary and figure</summary>
+          <div class="fold-body">
+            <p>We study how many samples are needed to learn a two-layer network with quadratic activation, whose width is proportional to the input dimension. We compute the best test error that any method can achieve from quadratically many samples, and we provide an algorithm based on AMP that reaches it. Empirically, gradient descent reaches twice this error, while averaging over random initializations recovers the optimum.</p>
+            <figure class="fold-figure">
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/bayes_mmse_dark.svg">
+                <img src="images/bayes_mmse.svg" loading="lazy" width="505" height="311" alt="Best achievable test error against the number of samples, without label noise, for four normalized widths: each curve decreases from 1 to 0, reached at the perfect-recovery threshold.">
+              </picture>
+              <figcaption>Best test error that any method can achieve without label noise, as the number of samples grows, for four widths. It reaches zero at the perfect-recovery threshold.</figcaption>
+            </figure>
+          </div>
+        </details>
+      </article>
+
+      <article class="pub">
+        <h3 class="pub-title">On the Impact of Overparameterization on the Training of a Shallow Neural Network in High Dimensions</h3>
+        <p class="pub-authors"><strong>Simon Martin</strong>, Francis Bach, Giulio Biroli</p>
+        <p class="pub-venue"><span class="badge">AISTATS</span> International Conference on Artificial Intelligence and Statistics, 2024</p>
+        <p class="pub-links">
+          <a class="pill" href="https://proceedings.mlr.press/v238/martin24a.html">Paper</a>
+          <a class="pill" href="https://github.com/simonmartin15/ShallowQuadratic">Code</a>
+        </p>
+        <details class="fold">
+          <summary>Summary and figure</summary>
+          <div class="fold-body">
+            <p>We study gradient flow for a two-layer network with quadratic activation learning a teacher network of the same type, with infinite data. Perfect recovery occurs as soon as the network has as many neurons as the teacher. Additional neurons can however slow down convergence, from exponential to polynomial, as the unnecessary directions vanish slowly.</p>
+            <figure class="fold-figure">
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="images/recovery_diagram_dark.svg">
+                <img src="images/recovery_diagram.svg" loading="lazy" width="519" height="332" alt="Overlap between the learned network and the teacher as a function of the student and teacher widths: partial recovery above the diagonal, full recovery below it.">
+              </picture>
+              <figcaption>Overlap with the teacher at the end of training, as a function of the student and teacher widths.</figcaption>
+            </figure>
+          </div>
+        </details>
+      </article>
+    </section>
+
+  </main>
+</body>
+</html>

@@ -1,0 +1,2170 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="692.39952pt" height="310.79952pt" viewBox="0 0 692.39952 310.79952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-22T16:36:46.056402</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 310.79952 
+L 692.39952 310.79952 
+L 692.39952 -0 
+L 0 -0 
+L 0 310.79952 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 37.446926 265.767345 
+L 337.160183 265.767345 
+L 337.160183 21.435682 
+L 37.446926 21.435682 
+L 37.446926 265.767345 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 37.446926 265.767345 
+L 37.446926 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="md0ba5d4ef4" d="M 0 0 
+L 0 3.5 
+" style="stroke: #59636e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="37.446926" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- $\mathdefault{0.0}$ -->
+      <g style="fill: #59636e" transform="translate(28.140965 282.809749) scale(0.14 -0.14)">
+       <defs>
+        <path id="CharterBT-Roman-30" d="M 1779 4352 
+C 864 4352 262 3549 262 2147 
+C 262 744 864 -64 1779 -64 
+C 2694 -64 3296 744 3296 2147 
+C 3296 3549 2694 4352 1779 4352 
+z
+M 1779 4051 
+C 2368 4051 2688 3403 2688 2147 
+C 2688 890 2368 243 1779 243 
+C 1190 243 864 884 864 2140 
+C 864 3403 1190 4051 1779 4051 
+z
+" transform="scale(0.015625)"/>
+        <path id="CharterBT-Roman-2e" d="M 890 748 
+C 666 748 480 569 480 339 
+C 480 108 666 -64 890 -64 
+C 1114 -64 1293 115 1293 339 
+C 1293 569 1114 748 890 748 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-30" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 82.858026 265.767345 
+L 82.858026 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="82.858026" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- $\mathdefault{0.1}$ -->
+      <g style="fill: #59636e" transform="translate(73.552064 282.809749) scale(0.14 -0.14)">
+       <defs>
+        <path id="CharterBT-Roman-31" d="M 1990 4352 
+L 602 3937 
+L 602 3669 
+L 1606 3848 
+L 1606 421 
+L 1530 313 
+L 794 275 
+L 794 0 
+L 2938 0 
+L 2938 268 
+L 2246 300 
+L 2170 396 
+L 2170 4352 
+L 1990 4352 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-31" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 128.269125 265.767345 
+L 128.269125 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="128.269125" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- $\mathdefault{0.2}$ -->
+      <g style="fill: #59636e" transform="translate(118.963164 282.809749) scale(0.14 -0.14)">
+       <defs>
+        <path id="CharterBT-Roman-32" d="M 902 505 
+C 2317 1625 3091 2345 3091 3147 
+C 3091 3866 2586 4352 1760 4352 
+C 966 4352 403 3898 403 3452 
+C 403 3236 538 3096 762 3096 
+C 864 3096 960 3128 1050 3191 
+L 1050 3872 
+C 1242 3981 1427 4025 1619 4025 
+C 2150 4025 2470 3669 2470 3064 
+C 2470 2230 1670 1536 269 403 
+L 269 0 
+L 3232 0 
+L 3232 1049 
+L 2944 1049 
+L 2829 505 
+L 902 505 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-32" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 173.680225 265.767345 
+L 173.680225 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="173.680225" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- $\mathdefault{0.3}$ -->
+      <g style="fill: #59636e" transform="translate(164.374264 282.809749) scale(0.14 -0.14)">
+       <defs>
+        <path id="CharterBT-Roman-33" d="M 2029 2239 
+C 2656 2419 2982 2783 2982 3276 
+C 2982 3923 2490 4352 1722 4352 
+C 922 4352 371 3923 371 3500 
+C 371 3295 512 3155 717 3155 
+C 819 3155 902 3180 979 3238 
+L 979 3839 
+C 1165 3967 1363 4025 1587 4025 
+C 2080 4025 2400 3699 2400 3193 
+C 2400 2675 2054 2367 1408 2367 
+C 1363 2367 1318 2374 1274 2374 
+L 1274 1996 
+C 1395 2015 1510 2022 1613 2022 
+C 2227 2048 2560 1753 2560 1248 
+C 2560 678 2138 236 1555 236 
+C 1363 236 1184 288 1011 390 
+L 813 934 
+C 742 960 678 966 621 966 
+C 416 966 262 825 262 640 
+C 262 313 768 -64 1530 -64 
+C 2515 -64 3149 518 3149 1235 
+C 3149 1791 2739 2188 2029 2239 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-33" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 219.091324 265.767345 
+L 219.091324 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="219.091324" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- $\mathdefault{0.4}$ -->
+      <g style="fill: #59636e" transform="translate(209.785363 282.809749) scale(0.14 -0.14)">
+       <defs>
+        <path id="CharterBT-Roman-34" d="M 2355 4352 
+L 173 1664 
+L 173 1247 
+L 2234 1247 
+L 2234 -256 
+L 2726 -256 
+L 2726 1247 
+L 3450 1247 
+L 3450 1664 
+L 2726 1664 
+L 2726 4352 
+L 2355 4352 
+z
+M 2234 3651 
+L 2234 1664 
+L 653 1664 
+L 2234 3651 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-34" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 264.502424 265.767345 
+L 264.502424 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="264.502424" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- $\mathdefault{0.5}$ -->
+      <g style="fill: #59636e" transform="translate(255.196463 282.809749) scale(0.14 -0.14)">
+       <defs>
+        <path id="CharterBT-Roman-35" d="M 646 4288 
+L 646 2188 
+C 787 2214 973 2227 1210 2227 
+C 2099 2227 2541 1924 2541 1261 
+C 2541 661 2131 230 1530 230 
+C 1389 230 1242 256 1101 307 
+L 845 861 
+C 781 874 730 881 691 881 
+C 474 881 320 739 320 539 
+C 320 230 762 -64 1421 -64 
+C 2470 -64 3130 558 3130 1389 
+C 3130 2124 2586 2624 1728 2624 
+C 1523 2624 1293 2591 1043 2521 
+L 1043 3788 
+L 2938 3788 
+L 2938 4288 
+L 646 4288 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-35" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 309.913524 265.767345 
+L 309.913524 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="309.913524" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- $\mathdefault{0.6}$ -->
+      <g style="fill: #59636e" transform="translate(300.607562 282.809749) scale(0.14 -0.14)">
+       <defs>
+        <path id="CharterBT-Roman-36" d="M 2835 4595 
+C 1267 4492 320 3440 320 1798 
+C 320 636 947 -64 1811 -64 
+C 2688 -64 3360 604 3360 1476 
+C 3360 2295 2790 2880 2029 2880 
+C 1651 2880 1274 2745 941 2489 
+C 1139 3625 1792 4224 2816 4224 
+C 2822 4224 2829 4224 2835 4224 
+L 2835 4595 
+z
+M 928 2205 
+C 1190 2399 1504 2495 1856 2495 
+C 2400 2495 2778 2082 2778 1418 
+C 2778 733 2394 243 1862 243 
+C 1261 243 915 785 915 1811 
+C 915 1934 915 2070 928 2205 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-36" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_8">
+     <!-- Number of samples / $d^2$ -->
+     <g style="fill: #1f2328" transform="translate(104.412758 303.633045) scale(0.165 -0.165)">
+      <defs>
+       <path id="CharterBT-Roman-4e" d="M 186 0 
+L 1536 0 
+L 1536 262 
+L 1152 313 
+L 1037 434 
+L 1037 3629 
+L 3475 0 
+L 3898 0 
+L 3898 3859 
+L 4013 3974 
+L 4397 4031 
+L 4397 4288 
+L 3053 4288 
+L 3053 4031 
+L 3437 3974 
+L 3552 3859 
+L 3552 856 
+L 1370 4127 
+L 1370 4288 
+L 166 4288 
+L 166 4031 
+L 576 3993 
+L 691 3903 
+L 691 434 
+L 576 313 
+L 186 262 
+L 186 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-75" d="M 909 3136 
+L 166 2886 
+L 166 2688 
+L 621 2688 
+L 621 910 
+C 621 275 928 -64 1478 -64 
+C 1792 -64 2131 83 2515 358 
+L 2515 0 
+L 3462 0 
+L 3462 230 
+L 3162 262 
+L 3046 363 
+L 3046 3136 
+L 2803 3136 
+L 2061 2886 
+L 2061 2688 
+L 2515 2688 
+L 2515 535 
+C 2253 409 2010 345 1773 345 
+C 1344 345 1152 561 1152 1018 
+L 1152 3136 
+L 909 3136 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-6d" d="M 2906 2707 
+C 2758 2988 2515 3136 2202 3136 
+C 1933 3136 1600 3001 1178 2751 
+L 1178 3103 
+L 934 3103 
+L 192 2880 
+L 192 2681 
+L 646 2681 
+L 646 364 
+L 538 262 
+L 192 230 
+L 192 0 
+L 1594 0 
+L 1594 230 
+L 1286 262 
+L 1178 364 
+L 1178 2508 
+C 1459 2643 1696 2713 1907 2713 
+C 2291 2713 2470 2503 2470 2056 
+L 2470 364 
+L 2362 262 
+L 2054 230 
+L 2054 0 
+L 3418 0 
+L 3418 230 
+L 3117 262 
+L 3002 364 
+L 3002 2503 
+C 3277 2637 3520 2713 3725 2713 
+C 4122 2713 4301 2503 4301 2056 
+L 4301 364 
+L 4186 262 
+L 3885 230 
+L 3885 0 
+L 5280 0 
+L 5280 230 
+L 4941 262 
+L 4832 364 
+L 4832 2164 
+C 4832 2796 4512 3136 4006 3136 
+C 3750 3136 3386 2988 2906 2707 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-62" d="M 838 4736 
+L 51 4486 
+L 51 4288 
+L 550 4288 
+L 550 0 
+L 1370 0 
+C 2592 0 3226 581 3226 1679 
+C 3226 2547 2714 3136 1958 3136 
+C 1677 3136 1389 3059 1082 2911 
+L 1082 4736 
+L 838 4736 
+z
+M 1082 294 
+L 1082 2694 
+C 1293 2758 1485 2796 1645 2796 
+C 2285 2796 2650 2356 2650 1558 
+C 2650 677 2266 288 1434 288 
+C 1402 288 1280 288 1082 294 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-65" d="M 2867 668 
+C 2502 427 2182 300 1862 300 
+C 1216 300 787 782 787 1594 
+C 787 1613 787 1638 787 1664 
+L 2861 1664 
+C 2867 1734 2867 1798 2867 1862 
+C 2867 2659 2413 3136 1715 3136 
+C 858 3136 237 2471 237 1499 
+C 237 567 819 -64 1664 -64 
+C 2067 -64 2483 64 2867 319 
+L 2867 668 
+z
+M 2298 1932 
+L 819 1932 
+C 858 2484 1222 2847 1632 2847 
+C 2061 2847 2298 2562 2298 2036 
+C 2298 2004 2298 1965 2298 1932 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-72" d="M 192 0 
+L 1734 0 
+L 1734 230 
+L 1286 262 
+L 1178 364 
+L 1178 2195 
+C 1440 2502 1664 2662 1875 2662 
+C 2010 2662 2118 2611 2202 2508 
+L 2406 2508 
+L 2406 3059 
+C 2272 3116 2150 3142 2022 3142 
+C 1971 3148 1914 3148 1862 3136 
+C 1632 2950 1402 2745 1178 2514 
+L 1178 3116 
+L 934 3116 
+L 192 2880 
+L 192 2687 
+L 646 2687 
+L 646 365 
+L 531 262 
+L 192 230 
+L 192 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-6f" d="M 1722 3136 
+C 858 3136 237 2489 237 1536 
+C 237 588 864 -64 1722 -64 
+C 2579 -64 3213 588 3213 1536 
+C 3213 2483 2586 3136 1722 3136 
+z
+M 1722 2860 
+C 2240 2860 2611 2361 2611 1536 
+C 2611 704 2240 211 1722 211 
+C 1210 211 838 710 838 1536 
+C 838 2368 1203 2860 1722 2860 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-66" d="M 186 0 
+L 1677 0 
+L 1677 230 
+L 1280 262 
+L 1171 365 
+L 1171 2707 
+L 2067 2707 
+L 2067 3008 
+L 1178 3008 
+L 1178 3483 
+C 1178 4030 1318 4368 1594 4499 
+L 2176 4108 
+C 2342 4154 2438 4277 2438 4434 
+C 2438 4639 2234 4800 1939 4800 
+C 1184 4800 640 4160 640 3079 
+C 640 3060 640 3034 640 3008 
+L 230 2911 
+L 230 2707 
+L 640 2707 
+L 640 365 
+L 525 262 
+L 186 230 
+L 186 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-73" d="M 2202 2995 
+C 1984 3091 1734 3136 1453 3136 
+C 723 3136 320 2803 320 2239 
+C 320 1811 602 1606 1146 1363 
+C 1568 1171 1798 1056 1798 723 
+C 1798 422 1568 204 1197 204 
+C 1011 204 832 256 653 358 
+L 576 902 
+L 269 902 
+L 269 70 
+C 493 -13 774 -64 1101 -64 
+C 1856 -64 2298 300 2298 896 
+C 2298 1132 2208 1324 2054 1446 
+C 1843 1619 1600 1708 1376 1817 
+C 1018 1990 832 2124 832 2399 
+C 832 2687 1024 2860 1363 2860 
+C 1517 2860 1670 2815 1837 2726 
+L 1888 2271 
+L 2202 2271 
+L 2202 2995 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-61" d="M 2138 369 
+L 2221 0 
+L 3123 0 
+L 3123 230 
+L 2784 262 
+L 2669 363 
+L 2669 2205 
+C 2669 2860 2387 3136 1715 3136 
+C 909 3136 422 2802 422 2406 
+C 422 2250 474 2205 621 2205 
+L 1062 2205 
+L 1062 2750 
+C 1235 2822 1389 2854 1549 2854 
+C 2010 2854 2138 2640 2138 2127 
+L 2138 1920 
+C 858 1613 269 1424 269 767 
+C 269 275 582 -64 1088 -64 
+C 1395 -45 1734 96 2138 369 
+z
+M 2138 569 
+C 1818 384 1555 281 1344 281 
+C 1024 281 832 492 832 806 
+C 832 1273 1235 1446 2138 1695 
+L 2138 569 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-70" d="M 147 -1408 
+L 1651 -1408 
+L 1651 -1178 
+L 1242 -1145 
+L 1133 -1040 
+L 1133 57 
+C 1370 19 1568 0 1728 0 
+C 2675 0 3302 649 3302 1649 
+C 3302 2536 2778 3136 2074 3136 
+C 1773 3136 1472 3007 1133 2751 
+L 1133 3103 
+L 890 3103 
+L 147 2880 
+L 147 2681 
+L 602 2681 
+L 602 -1043 
+L 493 -1146 
+L 147 -1178 
+L 147 -1408 
+z
+M 1133 389 
+L 1133 2517 
+C 1376 2656 1587 2732 1805 2732 
+C 2362 2732 2739 2295 2739 1567 
+C 2739 788 2304 288 1677 288 
+C 1523 288 1344 319 1133 389 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-6c" d="M 179 0 
+L 1677 0 
+L 1677 230 
+L 1312 262 
+L 1197 365 
+L 1197 4736 
+L 954 4736 
+L 173 4486 
+L 173 4288 
+L 666 4288 
+L 666 365 
+L 557 262 
+L 179 230 
+L 179 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="MathDesign-CH-Regular-T1-10-2f" d="M 2867 4864 
+L 2464 4864 
+L 358 -1211 
+L 762 -1211 
+L 2867 4864 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Italic-64" d="M 3040 4736 
+L 2061 4544 
+L 2061 4364 
+L 2624 4301 
+L 2400 3027 
+C 2227 3103 2061 3136 1888 3136 
+C 1357 3136 794 2815 448 2264 
+C 243 1933 134 1532 134 1091 
+C 134 352 461 -64 973 -64 
+C 1312 -64 1658 134 1971 534 
+C 1965 488 1965 443 1965 404 
+C 1965 89 2099 -52 2394 -52 
+C 2560 -52 2829 6 3181 134 
+L 3181 326 
+C 2989 281 2848 256 2765 256 
+C 2573 256 2483 346 2483 527 
+C 2483 611 2496 735 2522 877 
+L 3206 4736 
+L 3040 4736 
+z
+M 2003 2867 
+L 2310 2497 
+L 2022 851 
+C 1734 482 1440 300 1203 300 
+C 870 300 653 585 653 1097 
+C 653 2180 1274 2886 1850 2886 
+C 1894 2886 1946 2873 2003 2867 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#CharterBT-Roman-4e" transform="scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-75" transform="translate(68.192779 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6d" transform="translate(122.613107 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-62" transform="translate(203.239363 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(254.790355 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-72" transform="translate(301.750592 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6f" transform="translate(364.96997 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-66" transform="translate(416.520963 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-73" transform="translate(473.906201 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-61" transform="translate(512.162961 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6d" transform="translate(560.653455 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-70" transform="translate(641.27971 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6c" transform="translate(693.978422 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(720.949424 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-73" transform="translate(767.909661 0) scale(0.95642)"/>
+      <use xlink:href="#MathDesign-CH-Regular-T1-10-2f" transform="translate(832.850565 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Italic-64" transform="translate(910.320536 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-32" transform="translate(967.514506 38.161171) scale(0.669491)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15">
+      <path d="M 37.446926 265.767345 
+L 337.160183 265.767345 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <defs>
+       <path id="m0553efabb0" d="M 0 0 
+L -3.5 0 
+" style="stroke: #59636e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m0553efabb0" x="37.446926" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- $\mathdefault{0}$ -->
+      <g style="fill: #59636e" transform="translate(23.002157 270.788547) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_17">
+      <path d="M 37.446926 216.901013 
+L 337.160183 216.901013 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m0553efabb0" x="37.446926" y="216.901013" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- $\mathdefault{1}$ -->
+      <g style="fill: #59636e" transform="translate(23.002157 221.922215) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-31" transform="scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_19">
+      <path d="M 37.446926 168.03468 
+L 337.160183 168.03468 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m0553efabb0" x="37.446926" y="168.03468" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- $\mathdefault{2}$ -->
+      <g style="fill: #59636e" transform="translate(23.002157 173.055882) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-32" transform="scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_21">
+      <path d="M 37.446926 119.168347 
+L 337.160183 119.168347 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m0553efabb0" x="37.446926" y="119.168347" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- $\mathdefault{3}$ -->
+      <g style="fill: #59636e" transform="translate(23.002157 124.189549) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-33" transform="scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_23">
+      <path d="M 37.446926 70.302015 
+L 337.160183 70.302015 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m0553efabb0" x="37.446926" y="70.302015" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- $\mathdefault{4}$ -->
+      <g style="fill: #59636e" transform="translate(23.002157 75.323217) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-34" transform="scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_25">
+      <path d="M 37.446926 21.435682 
+L 337.160183 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m0553efabb0" x="37.446926" y="21.435682" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- $\mathdefault{5}$ -->
+      <g style="fill: #59636e" transform="translate(23.002157 26.456884) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-35" transform="scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_15">
+     <!-- Test error -->
+     <g style="fill: #1f2328" transform="translate(15.435682 176.583612) rotate(-90) scale(0.165 -0.165)">
+      <defs>
+       <path id="CharterBT-Roman-54" d="M 102 4288 
+L 102 3303 
+L 454 3303 
+L 544 3897 
+L 634 3993 
+L 1619 3993 
+L 1619 383 
+L 1504 294 
+L 1075 262 
+L 1075 0 
+L 2746 0 
+L 2746 262 
+L 2317 294 
+L 2202 383 
+L 2202 3993 
+L 3187 3993 
+L 3277 3897 
+L 3366 3303 
+L 3718 3303 
+L 3718 4288 
+L 102 4288 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-74" d="M 563 2707 
+L 563 645 
+C 563 192 698 0 1229 0 
+C 1478 0 1766 44 2067 140 
+L 2067 377 
+C 1920 345 1773 326 1626 326 
+C 1178 326 1094 537 1094 1022 
+L 1094 2707 
+L 2067 2707 
+L 2067 3008 
+L 1094 3008 
+L 1094 3712 
+L 858 3712 
+L 582 3095 
+L 160 2905 
+L 160 2707 
+L 563 2707 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#CharterBT-Roman-54" transform="scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(47.820992 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-73" transform="translate(94.781228 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-74" transform="translate(133.037988 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(191.66652 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-72" transform="translate(238.626756 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-72" transform="translate(275.16199 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6f" transform="translate(311.697224 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-72" transform="translate(363.248217 0) scale(0.95642)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_27">
+    <path d="M 352.270309 247.449664 
+L 339.058142 246.095694 
+L 326.738649 244.645587 
+L 315.239451 243.094027 
+L 304.499325 241.434481 
+L 294.459911 239.660329 
+L 285.066537 237.764752 
+L 276.26788 235.740744 
+L 268.01598 233.581123 
+L 260.265648 231.27863 
+L 252.974265 228.825989 
+L 246.10134 226.216106 
+L 239.608167 223.442213 
+L 233.457379 220.49816 
+L 227.612369 217.378852 
+L 222.036514 214.080824 
+L 216.69226 210.603194 
+L 211.539599 206.949041 
+L 206.533819 203.127787 
+L 199.180439 197.129717 
+L 189.229955 188.912449 
+L 186.600749 186.912523 
+L 183.853382 184.990744 
+L 180.934856 183.198579 
+L 177.767569 181.613421 
+L 174.236175 180.353311 
+L 170.178692 179.591045 
+L 165.437912 179.518461 
+L 160.119574 180.116069 
+L 154.823742 180.89527 
+L 150.094425 181.342451 
+L 146.011857 181.330317 
+L 142.456137 180.92389 
+L 139.300705 180.209449 
+L 136.450862 179.254143 
+L 133.83969 178.105704 
+L 131.419713 176.797768 
+L 129.156502 175.354336 
+L 124.972824 172.168654 
+L 121.078501 168.751562 
+L 117.413146 165.148455 
+L 113.938092 161.388502 
+L 110.624819 157.495964 
+L 107.451693 153.492384 
+L 102.920101 147.320562 
+L 98.627702 141.002139 
+L 94.547049 134.594158 
+L 89.404342 126.00569 
+L 84.577634 117.482546 
+L 78.96529 107.105821 
+L 71.869278 93.484893 
+L 59.580818 69.77487 
+L 55.150001 61.737512 
+L 51.957204 56.357012 
+L 49.271581 52.231497 
+L 47.037031 49.189025 
+L 45.195021 47.040717 
+L 43.68811 45.606313 
+L 42.462792 44.725315 
+L 41.471143 44.262598 
+L 40.671519 44.106339 
+L 39.934297 44.203529 
+L 39.364051 44.501925 
+L 38.817628 45.057871 
+L 38.584288 45.420136 
+L 38.584288 45.420136 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #3e4a89; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 362.090149 246.116198 
+L 349.874617 244.743446 
+L 337.958641 243.208854 
+L 326.146712 241.453148 
+L 316.989241 239.895646 
+L 308.098867 238.184337 
+L 299.481846 236.300363 
+L 291.143726 234.222255 
+L 283.089324 231.925549 
+L 277.237144 230.042917 
+L 271.548086 228.008504 
+L 266.023139 225.807708 
+L 260.662801 223.424417 
+L 255.467231 220.840793 
+L 250.436159 218.037097 
+L 245.568731 214.991524 
+L 240.863807 211.679862 
+L 237.816617 209.311153 
+L 234.840237 206.803704 
+L 231.933923 204.148261 
+L 229.096827 201.334915 
+L 226.328003 198.353046 
+L 223.626384 195.191281 
+L 220.990804 191.837432 
+L 218.419978 188.278441 
+L 215.912507 184.500322 
+L 213.466871 180.488091 
+L 211.081417 176.225709 
+L 208.754354 171.696011 
+L 206.483733 166.880647 
+L 204.267426 161.760022 
+L 202.103096 156.31325 
+L 199.988149 150.518135 
+L 197.919672 144.351176 
+L 195.894333 137.787646 
+L 193.908243 130.801781 
+L 191.956731 123.367146 
+L 189.08117 111.316383 
+L 186.248025 98.145484 
+L 183.452383 84.034819 
+L 178.609479 59.049818 
+L 177.526804 54.115811 
+L 176.342459 49.479353 
+L 174.972374 45.621934 
+L 173.225406 44.169471 
+L 172.706009 44.68881 
+L 172.257129 45.531033 
+L 171.645186 47.282729 
+L 170.937893 50.167493 
+L 170.044644 55.032159 
+L 168.922566 62.70438 
+L 167.182837 76.52106 
+L 164.436561 98.287499 
+L 162.714237 110.201187 
+L 161.093966 119.909944 
+L 159.528113 127.996901 
+L 158.019238 134.721306 
+L 156.42832 140.826861 
+L 154.76074 146.296116 
+L 153.203652 150.666553 
+L 151.605408 154.516389 
+L 150.094605 157.640256 
+L 148.522229 160.425668 
+L 146.949274 162.792282 
+L 145.510718 164.628948 
+L 143.952146 166.301245 
+L 142.201633 167.824055 
+L 140.744361 168.83102 
+L 139.135837 169.690668 
+L 137.260443 170.385504 
+L 135.893756 170.698014 
+L 134.141572 170.875011 
+L 132.114767 170.784498 
+L 130.831233 170.571576 
+L 128.297044 169.813768 
+L 125.824923 168.660111 
+L 123.4114 167.180727 
+L 121.049999 165.499632 
+L 118.737167 163.645937 
+L 115.352756 160.580723 
+L 112.062838 157.21876 
+L 108.860592 153.602685 
+L 105.740346 149.769615 
+L 102.763037 145.841175 
+L 99.081002 140.636845 
+L 95.570497 135.340906 
+L 90.588323 127.312227 
+L 85.913032 119.291075 
+L 80.118627 108.803878 
+L 73.54501 96.368671 
+L 58.089474 66.812764 
+L 54.282573 60.068231 
+L 51.079038 54.824301 
+L 48.418664 50.909405 
+L 46.234446 48.114789 
+L 44.458193 46.222329 
+L 43.02468 45.03147 
+L 41.874625 44.369877 
+L 40.95616 44.094619 
+L 40.225044 44.100281 
+L 39.644517 44.299833 
+L 39.104543 44.707443 
+L 38.584355 45.405805 
+L 38.584355 45.405805 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke: #3ba272; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 168.024019 265.767345 
+L 168.024019 21.435682 
+" clip-path="url(#p5a87017b02)" style="fill: none; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #59636e; stroke-width: 1.2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 37.446926 265.767345 
+L 37.446926 21.435682 
+" style="fill: none; stroke: #8c959f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 337.160183 265.767345 
+L 337.160183 21.435682 
+" style="fill: none; stroke: #8c959f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 37.446926 265.767345 
+L 337.160183 265.767345 
+" style="fill: none; stroke: #8c959f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 37.446926 21.435682 
+L 337.160183 21.435682 
+" style="fill: none; stroke: #8c959f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <!-- interpolation -->
+    <g style="fill: #59636e" transform="translate(89.559371 38.44938) scale(0.135 -0.135)">
+     <defs>
+      <path id="CharterBT-Roman-69" d="M 986 4544 
+C 781 4544 614 4383 614 4172 
+C 614 3967 781 3807 986 3807 
+C 1190 3807 1357 3967 1357 4172 
+C 1357 4377 1190 4544 986 4544 
+z
+M 960 3136 
+L 224 2886 
+L 224 2688 
+L 672 2688 
+L 672 365 
+L 563 262 
+L 224 230 
+L 224 0 
+L 1664 0 
+L 1664 230 
+L 1318 262 
+L 1203 365 
+L 1203 3136 
+L 960 3136 
+z
+" transform="scale(0.015625)"/>
+      <path id="CharterBT-Roman-6e" d="M 192 0 
+L 1594 0 
+L 1594 230 
+L 1286 262 
+L 1178 364 
+L 1178 2503 
+C 1453 2643 1690 2713 1894 2713 
+C 2368 2713 2541 2522 2541 2056 
+L 2541 364 
+L 2432 262 
+L 2125 230 
+L 2125 0 
+L 3526 0 
+L 3526 230 
+L 3181 262 
+L 3072 364 
+L 3072 2164 
+C 3072 2803 2765 3136 2208 3136 
+C 1933 3136 1606 2988 1178 2751 
+L 1178 3103 
+L 934 3103 
+L 192 2880 
+L 192 2681 
+L 646 2681 
+L 646 364 
+L 538 262 
+L 192 230 
+L 192 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CharterBT-Roman-69" transform="scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6e" transform="translate(26.779733 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-74" transform="translate(81.104367 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(113.048754 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-72" transform="translate(160.00899 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-70" transform="translate(196.544224 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6f" transform="translate(249.242936 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6c" transform="translate(300.793928 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-61" transform="translate(327.764931 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-74" transform="translate(376.255424 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-69" transform="translate(408.199811 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6f" transform="translate(434.979544 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6e" transform="translate(486.530537 0) scale(0.95642)"/>
+    </g>
+    <!-- threshold -->
+    <g style="fill: #59636e" transform="translate(109.365819 52.987906) scale(0.135 -0.135)">
+     <defs>
+      <path id="CharterBT-Roman-68" d="M 902 4736 
+L 122 4486 
+L 122 4288 
+L 614 4288 
+L 614 364 
+L 506 262 
+L 160 230 
+L 160 0 
+L 1562 0 
+L 1562 230 
+L 1261 262 
+L 1146 364 
+L 1146 2503 
+C 1421 2643 1658 2713 1862 2713 
+C 2336 2713 2509 2522 2509 2056 
+L 2509 364 
+L 2400 262 
+L 2099 230 
+L 2099 0 
+L 3494 0 
+L 3494 230 
+L 3155 262 
+L 3040 364 
+L 3040 2164 
+C 3040 2803 2739 3136 2182 3136 
+C 1907 3136 1574 2988 1146 2751 
+L 1146 4736 
+L 902 4736 
+z
+" transform="scale(0.015625)"/>
+      <path id="CharterBT-Roman-64" d="M 2451 4288 
+L 2451 3065 
+C 2253 3110 2061 3136 1882 3136 
+C 909 3136 230 2452 230 1430 
+C 230 537 768 -64 1466 -64 
+C 1818 -64 2125 64 2451 326 
+L 2451 0 
+L 3398 0 
+L 3398 230 
+L 3091 262 
+L 2982 365 
+L 2982 4736 
+L 2739 4736 
+L 1958 4486 
+L 1958 4288 
+L 2451 4288 
+z
+M 2451 562 
+C 2214 415 1984 339 1754 339 
+C 1178 339 794 792 794 1539 
+C 794 2337 1242 2854 1888 2854 
+C 2042 2854 2234 2816 2451 2752 
+L 2451 562 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CharterBT-Roman-74" transform="scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-68" transform="translate(31.944387 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-72" transform="translate(85.886483 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(122.421717 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-73" transform="translate(169.381953 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-68" transform="translate(207.638713 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6f" transform="translate(261.580809 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6c" transform="translate(313.131801 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-64" transform="translate(340.102804 0) scale(0.95642)"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- Double descent of the test error -->
+    <g style="fill: #1f2328" transform="translate(78.517882 15.435682) scale(0.165 -0.165)">
+     <defs>
+      <path id="CharterBT-Roman-44" d="M 1792 4288 
+L 211 4288 
+L 211 4031 
+L 576 3993 
+L 685 3904 
+L 685 383 
+L 576 294 
+L 211 262 
+L 211 0 
+L 1792 0 
+C 2432 0 2918 70 3354 396 
+C 3878 792 4154 1386 4154 2147 
+C 4154 3488 3309 4288 1792 4288 
+z
+M 1261 3993 
+L 1766 3993 
+C 2938 3993 3507 3392 3507 2147 
+C 3507 907 2938 294 1766 294 
+L 1261 294 
+L 1261 3993 
+z
+" transform="scale(0.015625)"/>
+      <path id="CharterBT-Roman-63" d="M 2720 249 
+L 2720 583 
+C 2451 403 2189 313 1907 313 
+C 1242 313 819 783 819 1574 
+C 819 2384 1210 2879 1760 2879 
+C 1869 2879 1971 2847 2067 2789 
+L 2067 2262 
+C 2163 2198 2259 2165 2355 2165 
+C 2573 2165 2714 2301 2714 2506 
+C 2714 2879 2368 3136 1754 3136 
+C 858 3136 237 2487 237 1529 
+C 237 577 806 -64 1677 -64 
+C 2022 -64 2368 44 2720 249 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CharterBT-Roman-44" transform="scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6f" transform="translate(66.279893 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-75" transform="translate(117.830885 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-62" transform="translate(172.251214 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6c" transform="translate(223.802206 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(250.773208 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-64" transform="translate(324.417589 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(378.455274 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-73" transform="translate(425.41551 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-63" transform="translate(463.67227 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(506.328608 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6e" transform="translate(553.288845 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-74" transform="translate(607.613478 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6f" transform="translate(666.24201 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-66" transform="translate(717.793002 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-74" transform="translate(775.178241 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-68" transform="translate(807.122628 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(861.064724 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-74" transform="translate(934.709105 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(966.653492 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-73" transform="translate(1013.613728 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-74" transform="translate(1051.870488 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(1110.49902 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-72" transform="translate(1157.459256 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-72" transform="translate(1193.99449 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6f" transform="translate(1230.529724 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-72" transform="translate(1282.080717 0) scale(0.95642)"/>
+    </g>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 219.521395 95.391406 
+L 327.010183 95.391406 
+Q 329.910183 95.391406 329.910183 92.491406 
+L 329.910183 31.585682 
+Q 329.910183 28.685682 327.010183 28.685682 
+L 219.521395 28.685682 
+Q 216.621395 28.685682 216.621395 31.585682 
+L 216.621395 92.491406 
+Q 216.621395 95.391406 219.521395 95.391406 
+z
+" style="fill: #ffffff; opacity: 0.9; stroke: #d1d9e0; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <!-- Weight decay -->
+     <g style="fill: #1f2328" transform="translate(232.909709 44.886742) scale(0.145 -0.145)">
+      <defs>
+       <path id="CharterBT-Roman-57" d="M 1478 0 
+L 1907 0 
+L 2970 3495 
+L 4051 0 
+L 4486 0 
+L 5504 3942 
+L 5933 4031 
+L 5933 4288 
+L 4608 4288 
+L 4608 4031 
+L 5037 3955 
+L 5107 3865 
+L 4333 869 
+L 3283 4288 
+L 2835 4288 
+L 1805 939 
+L 979 3891 
+L 1030 3980 
+L 1434 4031 
+L 1434 4288 
+L 0 4288 
+L 0 4031 
+L 403 3942 
+L 1478 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-67" d="M 2362 2944 
+C 2118 3078 1882 3136 1638 3136 
+C 883 3136 397 2703 397 2093 
+C 397 1620 698 1248 1190 1139 
+C 986 895 883 697 883 531 
+C 883 428 909 332 947 243 
+C 512 146 256 -164 256 -578 
+C 256 -1095 678 -1408 1414 -1408 
+C 1901 -1408 2342 -1261 2682 -985 
+C 2931 -778 3066 -500 3066 -261 
+C 3066 217 2733 416 1978 531 
+L 1363 627 
+C 1357 700 1350 754 1350 787 
+C 1350 894 1376 994 1421 1088 
+C 1459 1088 1498 1088 1530 1088 
+C 2272 1049 2752 1478 2752 2047 
+C 2752 2271 2694 2457 2573 2643 
+L 3277 2643 
+L 3277 2944 
+L 2362 2944 
+z
+M 1574 2886 
+C 1946 2886 2202 2590 2202 2112 
+C 2202 1639 1946 1337 1574 1337 
+C 1203 1337 947 1639 947 2112 
+C 947 2596 1203 2886 1574 2886 
+z
+M 1318 192 
+L 1939 75 
+C 2387 -9 2592 -80 2592 -429 
+C 2592 -791 2208 -1114 1638 -1114 
+C 1114 -1114 768 -817 768 -442 
+C 768 -158 966 82 1318 192 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-79" d="M -7 3072 
+L -7 2835 
+L 384 2796 
+L 1459 14 
+C 1299 -441 1114 -762 941 -948 
+L 326 -704 
+C 218 -807 160 -922 160 -1050 
+C 160 -1261 333 -1408 602 -1408 
+C 1018 -1408 1325 -1056 1626 -332 
+L 2906 2784 
+L 3277 2835 
+L 3277 3072 
+L 2138 3072 
+L 2138 2835 
+L 2483 2809 
+L 2534 2707 
+L 1734 713 
+L 966 2707 
+L 1043 2809 
+L 1382 2835 
+L 1382 3072 
+L -7 3072 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#CharterBT-Roman-57" transform="scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(80.817509 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-69" transform="translate(127.777746 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-67" transform="translate(154.557479 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-68" transform="translate(204.57823 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-74" transform="translate(258.520325 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-64" transform="translate(317.148857 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(371.186542 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-63" transform="translate(418.146778 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-61" transform="translate(460.803116 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-79" transform="translate(509.29361 0) scale(0.95642)"/>
+     </g>
+    </g>
+    <g id="line2d_30">
+     <path d="M 222.421395 60.596983 
+L 236.921395 60.596983 
+L 251.421395 60.596983 
+" style="fill: none; stroke: #3e4a89; stroke-width: 2.2; stroke-linecap: square"/>
+    </g>
+    <g id="text_19">
+     <!-- $\lambda = 0.05$ -->
+     <g style="fill: #1f2328" transform="translate(263.021395 65.671983) scale(0.145 -0.145)">
+      <defs>
+       <path id="MathDesign-CH-Regular-Italic-MathItalic-10-15" d="M 954 3839 
+L 1184 3839 
+C 1274 4031 1434 4198 1632 4224 
+C 1664 4230 1696 4230 1728 4230 
+C 2208 4230 2342 3686 2387 3116 
+L 205 6 
+L 826 6 
+L 2432 2294 
+C 2490 1159 2624 -64 3142 -64 
+C 3546 -64 3866 364 3949 813 
+L 3718 813 
+C 3629 614 3443 448 3238 422 
+C 3232 422 3226 422 3219 422 
+C 2842 422 2778 1903 2733 2974 
+C 2701 3801 2611 4716 1914 4716 
+C 1875 4716 1837 4716 1792 4710 
+C 1376 4652 1037 4262 954 3839 
+L 954 3839 
+z
+" transform="scale(0.015625)"/>
+       <path id="MathDesign-CH-Regular-OT1-10-3d" d="M 358 2367 
+L 4659 2367 
+L 4659 2752 
+L 358 2752 
+L 358 2367 
+z
+M 358 960 
+L 4659 960 
+L 4659 1344 
+L 358 1344 
+L 358 960 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MathDesign-CH-Regular-Italic-MathItalic-10-15" transform="scale(0.95642)"/>
+      <use xlink:href="#MathDesign-CH-Regular-OT1-10-3d" transform="translate(84.499655 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-30" transform="translate(182.006593 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-2e" transform="translate(235.183522 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-30" transform="translate(261.771987 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-35" transform="translate(314.948916 0) scale(0.95642)"/>
+     </g>
+    </g>
+    <g id="line2d_31">
+     <path d="M 222.421395 81.382224 
+L 236.921395 81.382224 
+L 251.421395 81.382224 
+" style="fill: none; stroke: #3ba272; stroke-width: 2.2; stroke-linecap: square"/>
+    </g>
+    <g id="text_20">
+     <!-- $\lambda = 0.005$ -->
+     <g style="fill: #1f2328" transform="translate(263.021395 86.457224) scale(0.145 -0.145)">
+      <use xlink:href="#MathDesign-CH-Regular-Italic-MathItalic-10-15" transform="scale(0.95642)"/>
+      <use xlink:href="#MathDesign-CH-Regular-OT1-10-3d" transform="translate(84.499655 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-30" transform="translate(182.006593 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-2e" transform="translate(235.183522 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-30" transform="translate(261.771987 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-30" transform="translate(314.948916 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-35" transform="translate(368.125845 0) scale(0.95642)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_8">
+    <path d="M 389.086263 265.767345 
+L 688.79952 265.767345 
+L 688.79952 21.435682 
+L 389.086263 21.435682 
+L 389.086263 265.767345 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_8">
+     <g id="line2d_32">
+      <path d="M 389.086263 265.767345 
+L 389.086263 21.435682 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="389.086263" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- $\mathdefault{0.0}$ -->
+      <g style="fill: #59636e" transform="translate(379.780302 282.809749) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-30" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_34">
+      <path d="M 469.009798 265.767345 
+L 469.009798 21.435682 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="469.009798" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- $\mathdefault{0.2}$ -->
+      <g style="fill: #59636e" transform="translate(459.703837 282.809749) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-32" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_36">
+      <path d="M 548.933333 265.767345 
+L 548.933333 21.435682 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="548.933333" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- $\mathdefault{0.4}$ -->
+      <g style="fill: #59636e" transform="translate(539.627372 282.809749) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-34" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_38">
+      <path d="M 628.856869 265.767345 
+L 628.856869 21.435682 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#md0ba5d4ef4" x="628.856869" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- $\mathdefault{0.6}$ -->
+      <g style="fill: #59636e" transform="translate(619.550907 282.809749) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-36" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_25">
+     <!-- Number of samples / $d^2$ -->
+     <g style="fill: #1f2328" transform="translate(456.052095 303.633045) scale(0.165 -0.165)">
+      <use xlink:href="#CharterBT-Roman-4e" transform="scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-75" transform="translate(68.192779 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6d" transform="translate(122.613107 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-62" transform="translate(203.239363 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(254.790355 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-72" transform="translate(301.750592 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6f" transform="translate(364.96997 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-66" transform="translate(416.520963 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-73" transform="translate(473.906201 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-61" transform="translate(512.162961 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6d" transform="translate(560.653455 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-70" transform="translate(641.27971 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6c" transform="translate(693.978422 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(720.949424 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-73" transform="translate(767.909661 0) scale(0.95642)"/>
+      <use xlink:href="#MathDesign-CH-Regular-T1-10-2f" transform="translate(832.850565 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Italic-64" transform="translate(910.320536 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-32" transform="translate(967.514506 38.161171) scale(0.669491)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_40">
+      <path d="M 389.086263 265.767345 
+L 688.79952 265.767345 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m0553efabb0" x="389.086263" y="265.767345" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- $\mathdefault{0.0}$ -->
+      <g style="fill: #59636e" transform="translate(363.47434 270.788547) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-30" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_42">
+      <path d="M 389.086263 226.359013 
+L 688.79952 226.359013 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#m0553efabb0" x="389.086263" y="226.359013" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- $\mathdefault{0.1}$ -->
+      <g style="fill: #59636e" transform="translate(363.47434 231.380215) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-31" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_44">
+      <path d="M 389.086263 186.95068 
+L 688.79952 186.95068 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_45">
+      <g>
+       <use xlink:href="#m0553efabb0" x="389.086263" y="186.95068" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- $\mathdefault{0.2}$ -->
+      <g style="fill: #59636e" transform="translate(363.47434 191.971882) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-32" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_46">
+      <path d="M 389.086263 147.542347 
+L 688.79952 147.542347 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#m0553efabb0" x="389.086263" y="147.542347" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- $\mathdefault{0.3}$ -->
+      <g style="fill: #59636e" transform="translate(363.47434 152.563549) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-33" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_48">
+      <path d="M 389.086263 108.134014 
+L 688.79952 108.134014 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_49">
+      <g>
+       <use xlink:href="#m0553efabb0" x="389.086263" y="108.134014" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- $\mathdefault{0.4}$ -->
+      <g style="fill: #59636e" transform="translate(363.47434 113.155216) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-34" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_50">
+      <path d="M 389.086263 68.725681 
+L 688.79952 68.725681 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_51">
+      <g>
+       <use xlink:href="#m0553efabb0" x="389.086263" y="68.725681" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- $\mathdefault{0.5}$ -->
+      <g style="fill: #59636e" transform="translate(363.47434 73.746883) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-35" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_52">
+      <path d="M 389.086263 29.317349 
+L 688.79952 29.317349 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #d1d9e0; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_53">
+      <g>
+       <use xlink:href="#m0553efabb0" x="389.086263" y="29.317349" style="fill: #59636e; stroke: #59636e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- $\mathdefault{0.6}$ -->
+      <g style="fill: #59636e" transform="translate(363.47434 34.338551) scale(0.14 -0.14)">
+       <use xlink:href="#CharterBT-Roman-30" transform="scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-2e" transform="translate(53.176929 0) scale(0.95642)"/>
+       <use xlink:href="#CharterBT-Roman-36" transform="translate(79.765394 0) scale(0.95642)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_33">
+     <!-- Width / $d$ -->
+     <g style="fill: #1f2328" transform="translate(355.907865 177.246403) rotate(-90) scale(0.165 -0.165)">
+      <use xlink:href="#CharterBT-Roman-57" transform="scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-69" transform="translate(86.938613 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-64" transform="translate(113.718347 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-74" transform="translate(167.756031 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-68" transform="translate(199.700418 0) scale(0.95642)"/>
+      <use xlink:href="#MathDesign-CH-Regular-T1-10-2f" transform="translate(280.326659 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Italic-64" transform="translate(357.796629 0) scale(0.95642)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_54">
+    <path d="M 693.39952 147.542342 
+L 645.572291 147.542319 
+L 639.810601 147.251793 
+L 634.30256 146.652231 
+L 629.039237 145.894223 
+L 624.010007 145.028294 
+L 614.609406 143.083036 
+L 606.013271 140.965109 
+L 598.139091 138.75952 
+L 590.911147 136.520788 
+L 581.133335 133.177712 
+L 572.455763 129.920536 
+L 564.708253 126.797165 
+L 555.580607 122.889279 
+L 542.169637 116.854153 
+L 531.096116 111.923454 
+L 525.5031 109.626574 
+L 520.296835 107.724419 
+L 516.587253 106.566531 
+L 513.005246 105.647939 
+L 509.518027 104.979143 
+L 506.097061 104.571124 
+L 502.717373 104.435356 
+L 499.350405 104.589844 
+L 495.978923 105.045288 
+L 492.581538 105.818858 
+L 489.139861 106.92682 
+L 485.638612 108.38362 
+L 482.063959 110.203657 
+L 478.40242 112.400202 
+L 474.652864 114.97921 
+L 470.802917 117.950253 
+L 466.85353 121.314117 
+L 462.807266 125.068102 
+L 458.671221 129.204303 
+L 454.457306 133.709261 
+L 450.182456 138.563644 
+L 445.868686 143.741767 
+L 441.542875 149.211814 
+L 437.236324 154.935473 
+L 432.983968 160.868116 
+L 427.463387 169.015003 
+L 422.196821 177.308099 
+L 417.271034 185.600666 
+L 412.76045 193.741382 
+L 408.719586 201.584531 
+L 405.177834 209.001573 
+L 402.137889 215.891295 
+L 399.578325 222.186811 
+L 396.992319 229.176347 
+L 394.99298 235.198522 
+L 393.216616 241.238979 
+L 391.788517 246.860781 
+L 390.642947 252.271859 
+L 389.980237 256.140736 
+L 389.980237 256.140736 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #5c068c; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_55">
+    <path d="M 692.230824 81.294598 
+L 665.066151 80.395819 
+L 641.7207 79.827404 
+L 621.619668 79.568001 
+L 604.272121 79.594192 
+L 589.258485 79.88076 
+L 576.219914 80.401186 
+L 564.849262 81.128635 
+L 554.883792 82.036821 
+L 546.096973 83.102538 
+L 538.29593 84.305385 
+L 531.315203 85.629882 
+L 525.013416 87.0658 
+L 519.269805 88.608735 
+L 513.981531 90.258933 
+L 509.062583 92.020916 
+L 504.437837 93.904362 
+L 500.046172 95.919571 
+L 495.833984 98.080612 
+L 491.757386 100.401204 
+L 487.779452 102.895322 
+L 483.8696 105.576273 
+L 480.002752 108.456014 
+L 476.159099 111.544573 
+L 472.323192 114.84982 
+L 467.202551 119.602248 
+L 462.062181 124.752701 
+L 456.899589 130.295376 
+L 451.724068 136.213914 
+L 446.555854 142.48109 
+L 441.425197 149.058288 
+L 436.371058 155.89577 
+L 431.439162 162.932699 
+L 426.679477 170.097861 
+L 422.143061 177.311341 
+L 417.878415 184.486973 
+L 413.927741 191.536028 
+L 410.323475 198.371807 
+L 407.085707 204.914841 
+L 403.562531 212.580904 
+L 400.605252 219.590077 
+L 398.171672 225.891192 
+L 395.858281 232.508046 
+L 393.84942 238.990739 
+L 392.247573 244.951666 
+L 390.967565 250.617239 
+L 390.039565 255.757002 
+L 389.990894 256.071044 
+L 389.990894 256.071044 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #c7426f; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_56">
+    <path d="M 693.39952 50.816779 
+L 673.06893 50.973298 
+L 651.59611 51.334257 
+L 632.486595 51.890528 
+L 615.431903 52.653175 
+L 600.178551 53.636174 
+L 590.846669 54.424049 
+L 582.153137 55.324719 
+L 574.018901 56.346546 
+L 566.387331 57.498644 
+L 559.208454 58.791255 
+L 552.434239 60.235958 
+L 546.023753 61.844098 
+L 539.93642 63.628667 
+L 534.139049 65.600679 
+L 528.602855 67.769131 
+L 523.3046 70.138568 
+L 518.226732 72.707253 
+L 513.324779 75.477416 
+L 508.687504 78.394751 
+L 504.21283 81.469675 
+L 499.928065 84.659977 
+L 495.827124 87.934512 
+L 490.001837 92.942609 
+L 484.53464 98.00069 
+L 479.382331 103.061015 
+L 472.926672 109.773429 
+L 466.859288 116.436421 
+L 461.105578 123.061291 
+L 454.273989 131.31597 
+L 447.78312 139.567032 
+L 441.602065 147.824671 
+L 435.726407 156.0778 
+L 430.170269 164.294462 
+L 424.959136 172.424725 
+L 420.123222 180.404416 
+L 415.691312 188.160425 
+L 411.68548 195.616806 
+L 408.117099 202.701589 
+L 404.984598 209.353148 
+L 401.779487 216.699394 
+L 399.133794 223.311301 
+L 396.670001 230.090104 
+L 394.538875 236.661112 
+L 392.821156 242.706046 
+L 391.423672 248.465689 
+L 390.367187 253.784074 
+L 390.033582 255.79495 
+L 390.033582 255.79495 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke: #e8961e; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_57">
+    <path d="M 389.086263 147.542347 
+L 688.79952 147.542347 
+" clip-path="url(#p75398aebba)" style="fill: none; stroke-dasharray: 1.2,1.98; stroke-dashoffset: 0; stroke: #59636e; stroke-width: 1.2"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 389.086263 265.767345 
+L 389.086263 21.435682 
+" style="fill: none; stroke: #8c959f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 688.79952 265.767345 
+L 688.79952 21.435682 
+" style="fill: none; stroke: #8c959f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 389.086263 265.767345 
+L 688.79952 265.767345 
+" style="fill: none; stroke: #8c959f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 389.086263 21.435682 
+L 688.79952 21.435682 
+" style="fill: none; stroke: #8c959f; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_34">
+    <!-- teacher width -->
+    <g style="fill: #59636e" transform="translate(607.230168 161.955095) scale(0.135 -0.135)">
+     <defs>
+      <path id="CharterBT-Roman-77" d="M -13 3072 
+L -13 2835 
+L 378 2796 
+L 1229 0 
+L 1626 0 
+L 2490 2420 
+L 3264 0 
+L 3661 0 
+L 4576 2784 
+L 4934 2835 
+L 4934 3072 
+L 3802 3072 
+L 3802 2835 
+L 4147 2809 
+L 4198 2707 
+L 3546 632 
+L 2790 3072 
+L 2400 3072 
+L 1542 632 
+L 960 2707 
+L 1037 2809 
+L 1376 2835 
+L 1376 3072 
+L -13 3072 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CharterBT-Roman-74" transform="scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(31.944387 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-61" transform="translate(78.904623 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-63" transform="translate(127.395117 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-68" transform="translate(170.051455 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-65" transform="translate(223.993551 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-72" transform="translate(270.953787 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-77" transform="translate(334.173166 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-69" transform="translate(407.913136 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-64" transform="translate(434.692869 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-74" transform="translate(488.730554 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-68" transform="translate(520.674941 0) scale(0.95642)"/>
+    </g>
+   </g>
+   <g id="text_35">
+    <!-- Minimal width -->
+    <g style="fill: #1f2328" transform="translate(488.294079 15.435682) scale(0.165 -0.165)">
+     <defs>
+      <path id="CharterBT-Roman-4d" d="M 198 0 
+L 1549 0 
+L 1549 262 
+L 1158 313 
+L 1043 434 
+L 1043 3923 
+L 2502 0 
+L 2778 0 
+L 4294 3987 
+L 4294 383 
+L 4230 294 
+L 3808 262 
+L 3808 0 
+L 5338 0 
+L 5338 262 
+L 4934 294 
+L 4858 383 
+L 4858 3903 
+L 4934 3993 
+L 5338 4031 
+L 5338 4288 
+L 3968 4288 
+L 3968 4089 
+L 2752 907 
+L 1549 4115 
+L 1549 4288 
+L 192 4288 
+L 192 4031 
+L 614 3993 
+L 698 3903 
+L 698 434 
+L 582 313 
+L 198 262 
+L 198 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CharterBT-Roman-4d" transform="scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-69" transform="translate(82.825999 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6e" transform="translate(109.605733 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-69" transform="translate(163.930366 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6d" transform="translate(190.7101 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-61" transform="translate(271.336355 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-6c" transform="translate(319.826849 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-77" transform="translate(373.481996 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-69" transform="translate(447.221965 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-64" transform="translate(474.001699 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-74" transform="translate(528.039384 0) scale(0.95642)"/>
+     <use xlink:href="#CharterBT-Roman-68" transform="translate(559.983771 0) scale(0.95642)"/>
+    </g>
+   </g>
+   <g id="legend_2">
+    <g id="patch_13">
+     <path d="M 550.117124 258.517345 
+L 678.64952 258.517345 
+Q 681.54952 258.517345 681.54952 255.617345 
+L 681.54952 173.92638 
+Q 681.54952 171.02638 678.64952 171.02638 
+L 550.117124 171.02638 
+Q 547.217124 171.02638 547.217124 173.92638 
+L 547.217124 255.617345 
+Q 547.217124 258.517345 550.117124 258.517345 
+z
+" style="fill: #ffffff; opacity: 0.9; stroke: #d1d9e0; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_36">
+     <!-- Label noise variance -->
+     <g style="fill: #1f2328" transform="translate(553.017124 187.227439) scale(0.145 -0.145)">
+      <defs>
+       <path id="CharterBT-Roman-4c" d="M 173 0 
+L 3238 0 
+L 3238 1163 
+L 2906 1163 
+L 2797 396 
+L 2707 294 
+L 1261 294 
+L 1261 3904 
+L 1370 3993 
+L 1734 4031 
+L 1734 4288 
+L 173 4288 
+L 173 4031 
+L 576 3993 
+L 685 3904 
+L 685 383 
+L 576 294 
+L 173 262 
+L 173 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="CharterBT-Roman-76" d="M -32 3072 
+L -32 2835 
+L 358 2796 
+L 1389 0 
+L 1747 0 
+L 2867 2784 
+L 3245 2835 
+L 3245 3072 
+L 2112 3072 
+L 2112 2835 
+L 2458 2809 
+L 2509 2707 
+L 1690 619 
+L 941 2707 
+L 1018 2809 
+L 1357 2835 
+L 1357 3072 
+L -32 3072 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#CharterBT-Roman-4c" transform="scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-61" transform="translate(49.733878 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-62" transform="translate(98.224371 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(149.775363 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6c" transform="translate(196.7356 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6e" transform="translate(250.390747 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6f" transform="translate(304.71538 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-69" transform="translate(356.266372 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-73" transform="translate(383.046106 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(421.302866 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-76" transform="translate(494.947247 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-61" transform="translate(542.194432 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-72" transform="translate(590.684925 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-69" transform="translate(627.22016 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-61" transform="translate(653.999893 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-6e" transform="translate(702.490386 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-63" transform="translate(756.81502 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-65" transform="translate(799.471358 0) scale(0.95642)"/>
+     </g>
+    </g>
+    <g id="line2d_58">
+     <path d="M 569.918234 202.937681 
+L 584.418234 202.937681 
+L 598.918234 202.937681 
+" style="fill: none; stroke: #5c068c; stroke-width: 2.2; stroke-linecap: square"/>
+    </g>
+    <g id="text_37">
+     <!-- $\Delta = 0$ -->
+     <g style="fill: #1f2328" transform="translate(610.518234 208.012681) scale(0.145 -0.145)">
+      <defs>
+       <path id="MathDesign-CH-Regular-MathItalic-10-1" d="M 269 0 
+L 2522 4352 
+L 2854 4352 
+L 5107 0 
+L 269 0 
+z
+M 2528 3718 
+L 877 518 
+L 4186 518 
+L 2528 3718 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#MathDesign-CH-Regular-MathItalic-10-1" transform="scale(0.95642)"/>
+      <use xlink:href="#MathDesign-CH-Regular-OT1-10-3d" transform="translate(102.862967 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-30" transform="translate(200.369905 0) scale(0.95642)"/>
+     </g>
+    </g>
+    <g id="line2d_59">
+     <path d="M 569.918234 223.722922 
+L 584.418234 223.722922 
+L 598.918234 223.722922 
+" style="fill: none; stroke: #c7426f; stroke-width: 2.2; stroke-linecap: square"/>
+    </g>
+    <g id="text_38">
+     <!-- $\Delta = 0.1$ -->
+     <g style="fill: #1f2328" transform="translate(610.518234 228.797922) scale(0.145 -0.145)">
+      <use xlink:href="#MathDesign-CH-Regular-MathItalic-10-1" transform="scale(0.95642)"/>
+      <use xlink:href="#MathDesign-CH-Regular-OT1-10-3d" transform="translate(102.862967 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-30" transform="translate(200.369905 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-2e" transform="translate(253.546834 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-31" transform="translate(280.135299 0) scale(0.95642)"/>
+     </g>
+    </g>
+    <g id="line2d_60">
+     <path d="M 569.918234 244.508164 
+L 584.418234 244.508164 
+L 598.918234 244.508164 
+" style="fill: none; stroke: #e8961e; stroke-width: 2.2; stroke-linecap: square"/>
+    </g>
+    <g id="text_39">
+     <!-- $\Delta = 0.5$ -->
+     <g style="fill: #1f2328" transform="translate(610.518234 249.583164) scale(0.145 -0.145)">
+      <use xlink:href="#MathDesign-CH-Regular-MathItalic-10-1" transform="scale(0.95642)"/>
+      <use xlink:href="#MathDesign-CH-Regular-OT1-10-3d" transform="translate(102.862967 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-30" transform="translate(200.369905 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-2e" transform="translate(253.546834 0) scale(0.95642)"/>
+      <use xlink:href="#CharterBT-Roman-35" transform="translate(280.135299 0) scale(0.95642)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5a87017b02">
+   <rect x="37.446926" y="21.435682" width="299.713257" height="244.331663"/>
+  </clipPath>
+  <clipPath id="p75398aebba">
+   <rect x="389.086263" y="21.435682" width="299.713257" height="244.331663"/>
+  </clipPath>
+ </defs>
+</svg>
